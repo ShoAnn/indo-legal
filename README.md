@@ -1,2 +1,1 @@
-# Thesis - RAG application for Indonesian legal chatbot
-Dataset:
+# [Thesis] RAG for Indonesian legal chatbot
